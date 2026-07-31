@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Sean Jefferson Calaoagan, a student majoring in Computer Science specializing in AI and Cloud Development at CIIT College of Innovation and Integrated Technology.
+
 <!--
 **sjcalaoagan/sjcalaoagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
