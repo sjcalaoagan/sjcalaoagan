@@ -9,7 +9,7 @@ currentProject = "Nokinator, a mobile app that emulates a Nokia camera."
 
 | **[Portfolio Website](https://calaoaganportfolio.pages.dev)**  | **[Leave a message!](https://sjcalaoagan.atabook.org/)**  |
 |---|---|
-| ![Spinning Globe](https://media.tenor.com/FmZ4HdaEWicAAAAi/globe.gif)  | ![Bookworm](https://media.tenor.com/OQ2hh7LBShcAAAAj/read-book.gif) |
+| ![Spinning Globe](/rotatingComputer.gif) | ![Bookworm](/bookAndQuill.gif) |
 
 
 <!--
